@@ -12,6 +12,9 @@ User can select between center or edge aligned PWM along with configuring these 
  - Deadtime
  - Number of cycles to run
  - Half-cycle duration
+ 
+ ## Usage
+ This board is meant to be used together with a serial terminal and USB to serial cable. Enter x/X anytime to restart program execution.
         
  ## Completed Board:
  <img src="https://user-images.githubusercontent.com/32253756/63134636-fef1d180-bf8f-11e9-837a-93dbc2b23627.JPG" alt = "drawing"
